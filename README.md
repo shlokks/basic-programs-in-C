@@ -1,2 +1,1 @@
-# basic-programs-in-C
-just a beginner ... 
+These are some most basic programms in python.
